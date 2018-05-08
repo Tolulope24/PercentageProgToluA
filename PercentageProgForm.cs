@@ -7,6 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+/*
+ * Created by: First Last
+ * Created on: Day-Month-Year
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #33 - Percentage Program
+ * This program takes the user's grade level and returns the equivalent percentage mark.
+*/
 
 namespace PercentageProgToluA
 {
@@ -63,8 +70,6 @@ namespace PercentageProgToluA
                 default:
                     percentage = -1;
                     break;
-                   
-                    
             }
                // Return Percentage
                return percentage;
